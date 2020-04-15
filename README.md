@@ -49,8 +49,9 @@ $ python downloadInstagramPost.py
 
 Want to contribute? Great!
 
-Email me on: kshitijbhatnagar123@gmail.com
-Or raise an Issue on Github.
+Email me on: kshitijbhatnagar123@gmail.com 
+OR 
+raise an Issue on Github.
  
 
 
